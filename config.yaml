@@ -1,0 +1,79 @@
+baseURL: https://fedoroff.id # todo: change site url.
+title: Fedoroff.id # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/banner.png
+  logo: logo.png # todo: add your custom logo to static/
+  subtitle: Fedoroff.id is a portfolio site of contemporary artist Aleksei Fedoroff. # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: Aleksei Fedoroff # todo: set your full name.
+  dontShowSource: true # please, do not do this :)
+  dontShowLogo: false # If you want to hide the logo, this is what you set to true
+  portfolio:
+    columns:
+      desktop:
+        default: 4
+      mobile:
+        default: 2
+  socials:
+    # todo: add your social accounts.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:alexfe@zoho.com'
+      landing: true
+  homepage: "/home" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  specialPages:
+    - work
+
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  plausible: '' # todo: set your plausible id.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  disableRadius: false
+  moveIt: false # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: true
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+# todo: uncomment menu.main array after you create contents.
+# menu:
+#   main:
+#     - name: work
+#       url: /work/
+#       weight: 1
+
+
+menu:
+  main:
+    - name: home
+      url: /home/
+      weight: 1
+    - name: post-post
+      url: /tags/post-post/
+      weight: 2
+    - name: paintings
+      url: /tags/paintings/
+      weight: 3
+    - name: mixed-media
+      url: /tags/mixed-media/
+      weight: 4
+    - name: prints
+      url: /tags/prints/
+      weight: 5
+    - name: other
+      url: /tags/other/
+      weight: 6
+    - name: about
+      url: /about/
+      weight: 7
