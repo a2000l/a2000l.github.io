@@ -1,6 +1,8 @@
 ---
 title: about
 url: about
+images:
+- /images/fedoroff.png
 hideTitle: true
 hideExif: true
 hideDate: true
