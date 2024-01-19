@@ -1,11 +1,9 @@
 ---
-weight: -13
+weight: 9
 images:
 - /images/rk/rk03.png
+title: Cavalry return
 tags:
 - paintings
 ---
-
-## Cavalry return
-
-Oil on canvas, 70x110cm
+Oil on canvas, 70x110cm, 2011

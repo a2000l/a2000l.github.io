@@ -2,11 +2,10 @@
 weight: -28
 images:
 - /images/exhibitionism/ex02.png
+title: Exhibitionism
 tags:
 - mixed-media
 - home
 ---
 
-## Exhibitionism
-
-Mixed technique, 120x90cm
+Mixed technique, 120x90cm, 2008

@@ -2,10 +2,9 @@
 weight: 1
 images:
 - /images/post-post/post01.png
+title: Still life with a unicorn skull
 tags:
 - post-post
+- home
 ---
-
-## Still life with unicorn skull
-
-Acrylic on canvas, mixed technique, 100x70cm
+Acrylic on canvas, mixed technique, 100x70cm, 2022

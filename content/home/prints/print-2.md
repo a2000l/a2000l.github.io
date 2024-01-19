@@ -2,10 +2,8 @@
 weight: 4
 images:
 - /images/moon/moon02.png
+title: Moonlight Sonata
 tags:
 - prints
 ---
-
-## Moonlight Sonata
-
-Collage, print, 95x120cm
+Collage, print, 95x120cm, 2019

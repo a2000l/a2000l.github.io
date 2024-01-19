@@ -2,10 +2,8 @@
 weight: 30
 images:
 - /images/oil/of02.png
+title: Oilfield
 tags:
 - paintings
 ---
-
-## Oilfield
-
-Acrylic on canvas, 70x100cm
+Acrylic on canvas, 70x100cm, 2016

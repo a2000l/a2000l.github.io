@@ -2,10 +2,9 @@
 weight: 7
 images:
 - /images/figure/f07.png
+title: Back door man
 tags:
 - paintings
+- home
 ---
-
-## Figure
-
-Oil on canvas, 100x85cm
+Oil on canvas, 100x85cm, 2005

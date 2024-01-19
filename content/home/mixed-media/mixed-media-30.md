@@ -2,10 +2,8 @@
 weight: -31
 images:
 - /images/bl/bl02.png
+title: In the dark
 tags:
 - mixed-media
 ---
-
-## In the dark
-
-Mixed technique, 100x80cm
+Mixed technique, 100x80cm, 2008

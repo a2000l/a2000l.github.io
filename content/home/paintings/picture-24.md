@@ -2,10 +2,9 @@
 weight: 24
 images:
 - /images/other/other02.png
+title: Other
 tags:
 - paintings
+- home
 ---
-
-## Other
-
-Oil on canvas, 120x120cm
+Oil on canvas, 120x120cm, 2005

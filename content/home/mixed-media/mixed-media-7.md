@@ -2,13 +2,9 @@
 weight: -2
 images:
 - /images/blue/blue03.png
-title: Blue
-date: 2013-03-10
+title: In blue
 tags:
 - mixed-media
 - home
 ---
-
-## In blue
-
-High-relief, mixed technique, 120x120cm
+High-relief, mixed technique, 120x120cm, 2010
