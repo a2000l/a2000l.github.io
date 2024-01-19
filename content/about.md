@@ -5,7 +5,7 @@ hideTitle: true
 hideExif: true
 hideDate: true
 ---
-**Fedoroff.id** is a portfolio site showcasing the work of contemporary artist Aleksei Fedoroff.
+**Fedoroff.gallery** is a portfolio site showcasing the work of contemporary artist Aleksei Fedoroff.
 
 ### Bio
 

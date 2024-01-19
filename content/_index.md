@@ -4,5 +4,5 @@ desc:
 - designed for portfolio sites with a fresh feel.
 
 menu:
-- conceptual / abstract / minimalistic / post-post / abouty
+- conceptual / abstract / minimalistic / post-post / about
 ---

@@ -1,5 +1,5 @@
-baseURL: https://fedoroff.id # todo: change site url.
-title: Fedoroff.id # todo: change site name.
+baseURL: https://fedoroff.gallery # todo: change site url.
+title: Fedoroff.gallery # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
