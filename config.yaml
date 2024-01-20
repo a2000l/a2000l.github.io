@@ -5,7 +5,7 @@ theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
+#  image: /images/banner.png
   logo: logo.png # todo: add your custom logo to static/
   subtitle: Fedoroff.id is a portfolio site of contemporary artist Aleksei Fedoroff. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
