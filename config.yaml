@@ -22,7 +22,7 @@ params:
     # todo: add your social accounts.
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:alexfe@zoho.com'
-      landing: true
+      landing: false
   homepage: "/home" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
     - work
