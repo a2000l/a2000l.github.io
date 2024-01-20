@@ -18,11 +18,11 @@ params:
         default: 4
       mobile:
         default: 2
-  socials:
+#  socials:
     # todo: add your social accounts.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:alexfe@zoho.com'
-      landing: false
+#    - icon: 'far fa-envelope fa-lg'
+#      url: 'mailto:alexfe@zoho.com'
+#      landing: false
   homepage: "/home" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   specialPages:
     - work
