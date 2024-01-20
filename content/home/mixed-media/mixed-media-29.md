@@ -5,5 +5,6 @@ images:
 title: In the dark
 tags:
 - mixed-media
+- home
 ---
 Mixed technique, 100x80cm, 2008

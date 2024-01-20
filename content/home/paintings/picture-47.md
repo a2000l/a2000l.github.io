@@ -1,8 +1,8 @@
 ---
 weight: -23
 images:
-- /images/oneofus/felix.png
-title: Portrait of Felix Dzerzhinsky
+- /images/oneofus/douglas.png
+title: Portrait of Kirk Douglas
 tags:
 - paintings
 ---
