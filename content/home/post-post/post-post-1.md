@@ -2,7 +2,7 @@
 weight: 1
 images:
 - /images/post-post/post01.png
-title: Still life with a unicorn skull
+title: Still life with a unicorn's skull
 tags:
 - post-post
 - home

@@ -2,7 +2,7 @@
 weight: 23
 images:
 - /images/other/other01.png
-title: Other
+title: The other
 tags:
 - paintings
 - home

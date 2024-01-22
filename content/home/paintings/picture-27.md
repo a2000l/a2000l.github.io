@@ -2,7 +2,7 @@
 weight: 27
 images:
 - /images/other/other05.png
-title: Other
+title: The other
 tags:
 - paintings
 ---
